@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anish Kumar"
+title                    : "Proton Lab"
 title_separator          : "-"
-name                     : &name "Anish Kumar"
+name                     : &name "Proton Lab"
 description              : &description "Proton Lab"
 url                      : https://akumar1727.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Anish Kumar', 'kathuria2000anish@gmail.com', 'url', 'message']
+  allowedFields          : ['Proton Lab', 'eirini@unm.edu', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anish Kumar"
+  name             : "Proton Lab"
   avatar           : "prof2.png"
-  bio              : "Proton Lab Intern, Department of Electrical and Computer Engineering, University of New Mexico"
+  bio              : "Performance and Resource Optimization in Networks Lab, Department of Electrical and Computer Engineering"
   location         : "Albuquerque, New Mexico, USA"
   employer         : "Universiy of New Mexico"
-  googlescholar    : "https://scholar.google.gr/citations?user=9m_GNq0AAAAJ&hl=el&oi=ao"
-  email            : "kathuria2000anish@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=q9WpZkgAAAAJ&hl=en"
+  email            : "eirini@unm.edu"
   uri              :
   bitbucket        :
   codepen          :
