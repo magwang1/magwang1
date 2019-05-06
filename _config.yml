@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Georgios Fragkos"
+title                    : "Anish Kumar"
 title_separator          : "-"
-name                     : &name "Georgios Fragkos"
-description              : &description "Ph.D. Student at University of New Mexico,USA"
+name                     : &name "Anish Kumar"
+description              : &description "Proton Lab"
 url                      : https://geofragkos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "geofragkos/geofragkos.github.io"
+repository               : "akumar1727/akumar1727.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Georgios Fragkos', 'gfragkos@unm.edu', 'url', 'message']
+  allowedFields          : ['Anish Kumar', 'kathuria2000anish@gmail.com', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Georgios Fragkos"
+  name             : "Anish Kumar"
   avatar           : "prof2.png"
-  bio              : "Ph.D. Student, Department of Electrical and Computer Engineering, University of New Mexico"
+  bio              : "Proton Lab Intern, Department of Electrical and Computer Engineering, University of New Mexico"
   location         : "Albuquerque, New Mexico, USA"
   employer         : "Universiy of New Mexico"
   googlescholar    : "https://scholar.google.gr/citations?user=9m_GNq0AAAAJ&hl=el&oi=ao"
-  email            : "gfragkos@unm.edu"
+  email            : "kathuria2000anish@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "geofragkos"
+  github           : "akumar1727"
   google_plus      :
   keybase          :
   instagram        :
