@@ -7,7 +7,7 @@ author_profile: true
 
 **Journal Publications**
 
-A. Thanou, E. E. Tsiropoulou, and S. Papavassiliou, "Quality of Experience Under a Prospect Theoretic Perspective: A Cultural Heritage Space Use Case," IEEE Transactions on Computational Social Systems, vol. 6, issue 1, pp. 135-148, 2019.
+1. A. Thanou, E. E. Tsiropoulou, and S. Papavassiliou, "Quality of Experience Under a Prospect Theoretic Perspective: A Cultural Heritage Space Use Case," IEEE Transactions on Computational Social Systems, vol. 6, issue 1, pp. 135-148, 2019.
 
 G. Fragkos, P. A. Apostolopoulos, and E.E. Tsiropoulou. "ESCAPE: Evacuation Strategy through Clustering and Autonomous Operation in Public Safety Systems," Future Internet 11, no. 1: 20, 2019.
 
