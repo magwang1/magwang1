@@ -11,7 +11,7 @@ author_profile: true
 
 3. *G. Fragkos, N. Kapsoulis, G. Palaiokrassas, A. Litke and T. Varvarigou. "Anonymized Personalization for distributed applications over blockchain", Decentralized 2018 Conference, UNIC, November, 2018*
 
-%Journal Publications
+**Journal Publications**
 
 A. Thanou, E. E. Tsiropoulou, and S. Papavassiliou, "Quality of Experience Under a Prospect Theoretic Perspective: A Cultural Heritage Space Use Case," IEEE Transactions on Computational Social Systems, vol. 6, issue 1, pp. 135-148, 2019.
 
