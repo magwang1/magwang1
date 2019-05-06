@@ -12,7 +12,10 @@ main:
     url: /publications/   
     
   - title: "Research Interests"
-    url: /research/   
+    url: /research/  
+    
+  - title: "Honors and Awards"
+    url: /honorsandawards/
    
   - title: "CV/Bio"
     url: /cv/
