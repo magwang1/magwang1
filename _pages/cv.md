@@ -12,3 +12,11 @@ redirect_from:
 
 [Click Here to view my Up-to-date Curriculum Vitae!](http://ece-research.unm.edu/tsiropoulou/files/CV.pdf)
 
+---
+layout: archive
+title: "proj"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
