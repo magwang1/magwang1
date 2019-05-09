@@ -19,7 +19,7 @@ main:
     url: /projects/ 
     
   - title: "Affiliations"
-    url: /affiliations/
+    url: /aff/
     
   - title: "Students"
     url: /students/
