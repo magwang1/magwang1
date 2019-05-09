@@ -7,8 +7,9 @@ author_profile: true
 
 
 **Ph.D. Students**
+{% include base_path %}
 
-Pavlos Athanasios Apostolopoulos
+[Pavlos Athanasios Apostopoulos](http://ece-research.unm.edu/tsiropoulou/files/CV.pdf)
 
 Georgios Fragkos
 
