@@ -1,12 +1,7 @@
 # main links links
 main:
-  
-  
-  - title: "Work & Experience"
-    url: /work/
     
-  - title: "Teaching"
-    url: /teaching/  
+   
     
   - title: "Publications"
     url: /publications/   
@@ -14,8 +9,20 @@ main:
   - title: "Research Interests"
     url: /research/  
     
+  - title: "Teaching"
+    url: /teaching/     
+   
   - title: "Honors and Awards"
     url: /honorsandawards/
+    
+  - title: "Projects"
+    url: /projects/ 
+    
+  - title: "Affiliations"
+    url: /affiliations/
+    
+  - title: "Students"
+    url: /students/
    
   - title: "CV/Bio"
     url: /cv/
