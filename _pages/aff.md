@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "Affiliations"
-permalink: /affiliations/
+permalink: /aff/
 author_profile: true
 ---
 
