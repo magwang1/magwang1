@@ -7,11 +7,10 @@ author_profile: true
 
 
 **Ph.D. Students**
-{% include base_path %}
 
-[Pavlos Athanasios Apostopoulos](http://ece-research.unm.edu/tsiropoulou/files/CV.pdf)
+[Pavlos Athanasios Apostopoulos](https://pavlosapost.github.io/)
 
-Georgios Fragkos
+[Georgios Fragkos](https://geofragkos.github.io/)
 
 **MS Students**
 
