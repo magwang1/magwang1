@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[Click Here to view my Up-to-date Curriculum Vitae!](http://geofragkos.github.io/files/cv_fragkos.pdf)
+[Click Here to view my Up-to-date Curriculum Vitae!](http://ece-research.unm.edu/tsiropoulou/files/CV.pdf)
 
