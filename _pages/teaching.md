@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Teaching Experience
+**Teaching Experience**
 
 1. Communication Systems (ECE 341 - Undergraduate Course - Fall 2018 - 42 students)
 
