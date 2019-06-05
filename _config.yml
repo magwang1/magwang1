@@ -112,7 +112,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  DBLP             : "https://dblp.uni-trier.de/pers/hd/t/Tsiropoulou:Eirini=Eleni"
+  }
+.ai-dblp-square:before {
+  content: " DBLP             : "https://dblp.uni-trier.de/pers/hd/t/Tsiropoulou:Eirini=Eleni"";
+}
   Research Gate    : "https://www.researchgate.net/profile/Eirini_Eleni_Tsiropoulou"
 
 
