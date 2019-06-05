@@ -92,7 +92,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "test"
+  facebook         : 
   foursquare       :
   github           :
   google_plus      :
@@ -112,6 +112,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  DBLP             : "https://dblp.uni-trier.de/pers/hd/t/Tsiropoulou:Eirini=Eleni"
+  Research Gate    : "https://www.researchgate.net/profile/Eirini_Eleni_Tsiropoulou"
 
 
 # Reading Files
