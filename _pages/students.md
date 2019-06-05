@@ -8,26 +8,28 @@ author_profile: true
 
 **Ph.D. Students**
 
-[Pavlos Athanasios Apostopoulos](https://pavlosapost.github.io/)
+1. [Pavlos Athanasios Apostopoulos](https://pavlosapost.github.io/)
 
-[Georgios Fragkos](https://geofragkos.github.io/)
+2. [Georgios Fragkos](https://geofragkos.github.io/)
 
 **MS Students**
 
-Marcos Torres
+1. Marcos Torres
 
 **Undergraduate Students**
 
-Kelly Rael (Senior Design Project 2018-2019)
+1. Kelly Rael (Senior Design Project 2018-2019)
 
-Nathan Patrizi (Senior Design Project 2018-2019)
+2. Nathan Patrizi (Senior Design Project 2018-2019)
 
-Alexis Marie Rubin	(Senior Design Project 2019-2020)
+3. Alexis Marie Rubin	(Senior Design Project 2019-2020)
 
-Daenarah Abriana Dorcas (Senior Design Project 2019-2020)
+4. Daenarah Abriana Dorcas (Senior Design Project 2019-2020)
 
 **High School Students**
 
-Anish Kumar (Summer 2018)
+1. Anish Kumar (Summer 2018)
 
-Spoorthi Menta (Summer 2018)
+2. Spoorthi Menta (Summer 2018)
+
+3. Maggie Wang (Summer 2019)
