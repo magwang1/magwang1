@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Conference Publications"
+permalink: /conference publications/
+author_profile: true
+---
+
 **Book Chapters**
 
 1. E.E. Tsiropoulou, P. Vamvakas, S. Papavassiliou, "Resource Allocation in Multi-tier Femtocell and Visible-Light Heterogeneous Wireless Networks, " Book Chapter in "Resource Allocation in Next-Generation Broadband Wireless Access Networks" Book, Editors: Chetna Singhal and Swades De, 2016.
