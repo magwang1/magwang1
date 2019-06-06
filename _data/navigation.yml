@@ -5,7 +5,18 @@ main:
     url: /news/ 
     
   - title: "Publications"
-    url: /publications/ 
+    url: /publications/
+        <ul class="nav-dropdown">
+            <li>
+              <a href="#!">Journal Publications</a>
+            </li>
+            <li>
+              <a href="#!">Conference Publications</a>
+            </li>
+            <li>
+              <a href="#!">Book Chapters</a>
+            </li>
+          </ul>
        
   - title: "Research Interests"
     url: /research/  
