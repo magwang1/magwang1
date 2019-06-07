@@ -303,7 +303,6 @@ tag_archive:
 
 # HTML Compression
 # - http://jch.penibelst.de/
-<a href="#" class="scrollUpButton">&#9650</a>
 compress_html:
   clippings: all
   ignore:
