@@ -9,17 +9,14 @@ main:
         <ul class="nav-dropdown">
             <li>
               <a href="#!">Journal Publications</a>
-              title: "Journal Publications"
               url: /publications/
             </li>
             <li>
               <a href="#!">Conference Publications</a>
-              title: "Conference Publications"
               url" /conpub/
             </li>
             <li>
               <a href="#!">Book Chapters</a>
-              title: "Book Chapters"
               url: /bookch/
             </li>
           </ul>
