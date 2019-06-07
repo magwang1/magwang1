@@ -5,10 +5,8 @@ main:
     url: /news/ 
     
   - title: "Publications"
-    url: /publications/
-   <li>
-          <a href="#!">Services</a>
-          <ul class="nav-dropdown">
+      url: /publications/
+        <ul class="nav-dropdown">
             <li>
               <a href="#!">Journal Publications</a>
             </li>
@@ -19,7 +17,6 @@ main:
               <a href="#!">Book Chapters</a>
             </li>
           </ul>
-        </li>
        
   - title: "Research Interests"
     url: /research/  
